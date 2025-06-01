@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clode10.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/clode10.github.io/static/js/main.c3b38efc.js",
+    "static/js/453.ee66754c.chunk.js": "/clode10.github.io/static/js/453.ee66754c.chunk.js",
+    "static/media/logo.svg": "/clode10.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/clode10.github.io/index.html",
+    "main.f855e6bc.css.map": "/clode10.github.io/static/css/main.f855e6bc.css.map",
+    "main.c3b38efc.js.map": "/clode10.github.io/static/js/main.c3b38efc.js.map",
+    "453.ee66754c.chunk.js.map": "/clode10.github.io/static/js/453.ee66754c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c3b38efc.js"
+  ]
+}
